@@ -9198,7 +9198,7 @@
         "tracking": "Leadgen",
         "plataforma": "Google",
         "centroCostoId": "Nuevas Maestrías",
-        "presupuesto": 5500,
+        "presupuesto": 4720,
         "leads": 275,
         "metas": {
           "leads": "",
@@ -9221,7 +9221,7 @@
             "leads": 0
           },
           "abr": {
-            "presupuesto": 1100,
+            "presupuesto": 320,
             "leads": 55
           },
           "may": {
