@@ -126,7 +126,7 @@
         "tracking": "Pixel",
         "plataforma": "Meta",
         "centroCostoId": "Nuevas SSEE",
-        "presupuesto": 2080,
+        "presupuesto": 1940,
         "leads": 69,
         "metas": {
           "leads": "",
@@ -149,7 +149,7 @@
             "leads": 0
           },
           "abr": {
-            "presupuesto": 1200,
+            "presupuesto": 1060,
             "leads": 40
           },
           "may": {
@@ -1760,12 +1760,12 @@
         "programa": "Fisioterapia en el Adulto Mayor",
         "intake": "Intake 2",
         "fechaInicio": "2026-04-04",
-        "fechaFin": "2026-04-30",
+        "fechaFin": "2026-05-22",
         "tracking": "Pixel",
         "plataforma": "Meta",
         "centroCostoId": "Nuevas SSEE",
-        "presupuesto": 720,
-        "leads": 24,
+        "presupuesto": 1090,
+        "leads": 55,
         "metas": {
           "leads": "",
           "interesados": "",
@@ -1787,12 +1787,12 @@
             "leads": 0
           },
           "abr": {
-            "presupuesto": 720,
-            "leads": 24
+            "presupuesto": 650,
+            "leads": 33
           },
           "may": {
-            "presupuesto": 0,
-            "leads": 0
+            "presupuesto": 440,
+            "leads": 22
           },
           "jun": {
             "presupuesto": 0,
@@ -3584,8 +3584,8 @@
         "tracking": "Leadgen",
         "plataforma": "Meta",
         "centroCostoId": "Nuevos Doctorados",
-        "presupuesto": 10850,
-        "leads": 455,
+        "presupuesto": 9865,
+        "leads": 457,
         "metas": {
           "leads": "",
           "interesados": "",
@@ -3607,7 +3607,7 @@
             "leads": 0
           },
           "abr": {
-            "presupuesto": 1750,
+            "presupuesto": 765,
             "leads": 109
           },
           "may": {
@@ -8848,8 +8848,8 @@
         "tracking": "Pixel",
         "plataforma": "Meta",
         "centroCostoId": "Nuevos Doctorados",
-        "presupuesto": 6200,
-        "leads": 205,
+        "presupuesto": 5380,
+        "leads": 209,
         "metas": {
           "leads": "",
           "interesados": "",
@@ -8871,7 +8871,7 @@
             "leads": 0
           },
           "abr": {
-            "presupuesto": 1000,
+            "presupuesto": 180,
             "leads": 50
           },
           "may": {
@@ -10239,7 +10239,7 @@
         }
       }
     ],
-    "recordIdSeq": 1777340953281.1165
+    "recordIdSeq": 1777388356232.369
   },
   "catalogos_sistema": {
     "tipos": [
