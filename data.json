@@ -10237,9 +10237,149 @@
             "leads": 0
           }
         }
+      },
+      {
+        "id": 1777992366296.827,
+        "tipo": "Webinar",
+        "programa": "Doctorado en Educación",
+        "intake": "Intake 2",
+        "fechaInicio": "2026-05-04",
+        "fechaFin": "2026-05-14",
+        "tracking": "Leadgen",
+        "plataforma": "Meta",
+        "centroCostoId": "Nuevas Maestrías",
+        "presupuesto": 100,
+        "leads": 50,
+        "metas": {
+          "leads": "",
+          "interesados": "",
+          "postulantes": "",
+          "matriculados": "",
+          "cplMeta": ""
+        },
+        "distribucionMensual": {
+          "ene": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "feb": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "mar": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "abr": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "may": {
+            "presupuesto": 100,
+            "leads": 50
+          },
+          "jun": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "jul": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "ago": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "sep": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "oct": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "nov": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "dic": {
+            "presupuesto": 0,
+            "leads": 0
+          }
+        }
+      },
+      {
+        "id": 1777992457174.4412,
+        "tipo": "Webinar",
+        "programa": "Gestión de Contrataciones Públicas",
+        "intake": "Intake 3",
+        "fechaInicio": "2026-05-04",
+        "fechaFin": "2026-05-13",
+        "tracking": "Leadgen",
+        "plataforma": "Meta",
+        "centroCostoId": "Nuevas Maestrías",
+        "presupuesto": 90,
+        "leads": 50,
+        "metas": {
+          "leads": "",
+          "interesados": "",
+          "postulantes": "",
+          "matriculados": "",
+          "cplMeta": ""
+        },
+        "distribucionMensual": {
+          "ene": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "feb": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "mar": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "abr": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "may": {
+            "presupuesto": 90,
+            "leads": 50
+          },
+          "jun": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "jul": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "ago": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "sep": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "oct": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "nov": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "dic": {
+            "presupuesto": 0,
+            "leads": 0
+          }
+        }
       }
     ],
-    "recordIdSeq": 1777388356232.369
+    "recordIdSeq": 1777992457175.4412
   },
   "catalogos_sistema": {
     "tipos": [
@@ -88116,6 +88256,699 @@
       "impresiones": 7554,
       "clics": 53,
       "_id": "1777905948045.9019"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120240556130550000",
+      "nombre": "PE_Peritaje Grafotécnico_Pixel_intake2_05032026",
+      "gasto": 15.73,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 3652,
+      "clics": 19,
+      "_id": "1777993111493.261"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120240557014480000",
+      "nombre": "DI_investigacion Cientifica_Pixel",
+      "gasto": 34.73,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 6499,
+      "clics": 74,
+      "_id": "1777993111493.2317"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120240819831280000",
+      "nombre": "MA_Docencia Universitaria_Pixel_intake1_11032026",
+      "gasto": 17.18,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 5634,
+      "clics": 37,
+      "_id": "1777993111493.2717"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120241039803000000",
+      "nombre": "PE_Peritaje Criminalistico_Pixel_16032026",
+      "gasto": 35.94,
+      "leads": 9,
+      "estado": "Activo",
+      "impresiones": 21309,
+      "clics": 99,
+      "_id": "1777993111493.7566"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120241828527400000",
+      "nombre": "SE_Psicoterapia_Pixel_01042026",
+      "gasto": 34.6,
+      "leads": 7,
+      "estado": "Activo",
+      "impresiones": 7195,
+      "clics": 62,
+      "_id": "1777993111493.0022"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120241885926820000",
+      "nombre": "SE_Histotecnologia_Leadgen_Abril_01042026",
+      "gasto": 31.25,
+      "leads": 0,
+      "estado": "Activo",
+      "impresiones": 14603,
+      "clics": 75,
+      "_id": "1777993111493.557"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120242057802560000",
+      "nombre": "SE_Fisioterapia Cardiorrespiratoria_Pixel_04042026",
+      "gasto": 41,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 2065,
+      "clics": 186,
+      "_id": "1777993111493.0369"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120242058279870000",
+      "nombre": "SE_Fisioterapia en el Adulto Mayor_Pixel_04042026",
+      "gasto": 24.49,
+      "leads": 8,
+      "estado": "Activo",
+      "impresiones": 2163,
+      "clics": 108,
+      "_id": "1777993111493.7073"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243346011150000",
+      "nombre": "SE_Laboratorio Forense_Leadgen_Abril_270426",
+      "gasto": 37.54,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 16156,
+      "clics": 64,
+      "_id": "1777993111493.9214"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243347994900000",
+      "nombre": "SE_Laboratorio Forense_Pixel_Abril_270426",
+      "gasto": 26,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 9896,
+      "clics": 48,
+      "_id": "1777993111493.9138"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243348606540000",
+      "nombre": "SE_Productos Sanitarios_Leadgen_Abril_270426",
+      "gasto": 39.74,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 13565,
+      "clics": 56,
+      "_id": "1777993111493.3225"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243350084490000",
+      "nombre": "SE_Productos Sanitarios_Pixel_Abril_270426",
+      "gasto": 34.33,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 7811,
+      "clics": 123,
+      "_id": "1777993111493.8066"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243357618760000",
+      "nombre": "SE_Nutricion en Obesidad y Cirugia Bariatrica_Leadgen_Abril_270426",
+      "gasto": 42,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 10757,
+      "clics": 39,
+      "_id": "1777993111493.4473"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243358287400000",
+      "nombre": "SE_Nutricion en Obesidad y Cirugia Bariatrica_Pixel_Abril_270426",
+      "gasto": 21.6,
+      "leads": 0,
+      "estado": "Activo",
+      "impresiones": 4385,
+      "clics": 42,
+      "_id": "1777993111493.9631"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243436511530000",
+      "nombre": "SE_Fisioterapia Cardiorrespiratoria_Leadgen_280426",
+      "gasto": 68.88,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 37631,
+      "clics": 221,
+      "_id": "1777993111493.8696"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243437163820000",
+      "nombre": "SE_Fisioterapia en el Adulto Mayor_Leadgen_280426",
+      "gasto": 40.33,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 18551,
+      "clics": 125,
+      "_id": "1777993111493.7473"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243493025000000",
+      "nombre": "SE_Soporte Nutricional Farmacológico_Leadgen_290426",
+      "gasto": 22.25,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 9801,
+      "clics": 59,
+      "_id": "1777993111493.4734"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243493813920000",
+      "nombre": "SE_Fisioterapia en Neurorrehabilitación_Leadgen_290426",
+      "gasto": 35.99,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 12837,
+      "clics": 90,
+      "_id": "1777993111493.9485"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243493905510000",
+      "nombre": "SE_Terapia Manual Ortopédica_Leadgen_290426",
+      "gasto": 40.76,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 13743,
+      "clics": 101,
+      "_id": "1777993111493.9426"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243494342200000",
+      "nombre": "SE_Salud Sexual y Reproductiva del Escolar y Adolescente_Leadgen_290426",
+      "gasto": 56.79,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 22638,
+      "clics": 140,
+      "_id": "1777993111493.7039"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243494610560000",
+      "nombre": "SE_Riesgo Obstétrico_Leadgen_290426",
+      "gasto": 62.41,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 33481,
+      "clics": 224,
+      "_id": "1777993111493.904"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243494773900000",
+      "nombre": "SE_Psicoprofilaxis Obstétrica y Estimulación Pre Natal_Leadgen_290426",
+      "gasto": 25.79,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 12350,
+      "clics": 88,
+      "_id": "1777993111493.2095"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243494871060000",
+      "nombre": "SE_Prevención de Cáncer Ginecológico_Leadgen_290426",
+      "gasto": 33.28,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 14934,
+      "clics": 66,
+      "_id": "1777993111493.4731"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243494981630000",
+      "nombre": "SE_Monitoreo Fetal_Leadgen_290426",
+      "gasto": 39.98,
+      "leads": 8,
+      "estado": "Activo",
+      "impresiones": 20242,
+      "clics": 115,
+      "_id": "1777993111493.772"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243495092910000",
+      "nombre": "SE_Hematología_Leadgen_290426",
+      "gasto": 12.27,
+      "leads": 0,
+      "estado": "Activo",
+      "impresiones": 5498,
+      "clics": 21,
+      "_id": "1777993111493.0981"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243495431980000",
+      "nombre": "SE_Nutricion Oncologica_Leadgen_290426",
+      "gasto": 35.6,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 11558,
+      "clics": 68,
+      "_id": "1777993111493.995"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243495652740000",
+      "nombre": "SE_Psicoterapia_Leadgen_290426",
+      "gasto": 22.58,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 6917,
+      "clics": 38,
+      "_id": "1777993111493.2258"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243495853680000",
+      "nombre": "SE_Hemoterapia y Banco de Sangre_Leadgen_290426",
+      "gasto": 25.43,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 11448,
+      "clics": 63,
+      "_id": "1777993111493.067"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243498656360000",
+      "nombre": "MA_Psicologia Educativa y Neuroeducacion_Pixel_290426",
+      "gasto": 31.79,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 11939,
+      "clics": 94,
+      "_id": "1777993111493.009"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243498806820000",
+      "nombre": "MA_Psicologia Educativa y Neuroeducacion_Leads_290426",
+      "gasto": 61.52,
+      "leads": 10,
+      "estado": "Activo",
+      "impresiones": 16793,
+      "clics": 77,
+      "_id": "1777993111493.7825"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243499378440000",
+      "nombre": "MA_Gestion del talento humano y liderazgo organizacional_Pixel_290426",
+      "gasto": 44.88,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 9416,
+      "clics": 103,
+      "_id": "1777993111493.9033"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243499473020000",
+      "nombre": "MA_Gestion del talento humano y liderazgo organizacional_Leadgen_290426",
+      "gasto": 158.92,
+      "leads": 6,
+      "estado": "Activo",
+      "impresiones": 59886,
+      "clics": 339,
+      "_id": "1777993111493.2627"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243552850670000",
+      "nombre": "MA_Gestion de la Salud Ocupacional y Prevencion del Riesgo Laboral_LeadAds_300426",
+      "gasto": 122.85,
+      "leads": 18,
+      "estado": "Activo",
+      "impresiones": 48708,
+      "clics": 243,
+      "_id": "1777993111493.256"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243553484330000",
+      "nombre": "MA_Docencia Universitaria_Leadgen_300426",
+      "gasto": 63.75,
+      "leads": 21,
+      "estado": "Activo",
+      "impresiones": 28989,
+      "clics": 169,
+      "_id": "1777993111493.1443"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243553864060000",
+      "nombre": "MA_Dirección de Operaciones y Logística Global_Leads_3030426",
+      "gasto": 56.78,
+      "leads": 6,
+      "estado": "Activo",
+      "impresiones": 15138,
+      "clics": 149,
+      "_id": "1777993111493.0398"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243690451310000",
+      "nombre": "PE_Peritaje Grafotecnico_Leadgen_030526",
+      "gasto": 12.07,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 2687,
+      "clics": 16,
+      "_id": "1777993111493.904"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243690496730000",
+      "nombre": "PE_Peritaje Criminalistico_Leadgen_040526",
+      "gasto": 16,
+      "leads": 6,
+      "estado": "Activo",
+      "impresiones": 7968,
+      "clics": 31,
+      "_id": "1777993111493.447"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243690559810000",
+      "nombre": "PE_Peritaje Ambiental_Leadgen_030526",
+      "gasto": 19.74,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 6528,
+      "clics": 23,
+      "_id": "1777993111493.2598"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243690615070000",
+      "nombre": "DI_investigacion Cientifica_Leads_030526",
+      "gasto": 14.69,
+      "leads": 14,
+      "estado": "Activo",
+      "impresiones": 3373,
+      "clics": 28,
+      "_id": "1777993111493.3206"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243690635620000",
+      "nombre": "DI_Auditoria en Salud con enfoque en Audioria Farmaceutica_Leadgen_030526",
+      "gasto": 38.21,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 14001,
+      "clics": 80,
+      "_id": "1777993111493.1582"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243691276410000",
+      "nombre": "MBA_Salud_Leads_030526",
+      "gasto": 44.81,
+      "leads": 6,
+      "estado": "Activo",
+      "impresiones": 10709,
+      "clics": 73,
+      "_id": "1777993111493.9763"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243782092760000",
+      "nombre": "MA_Derecho Procesal Penal_Leadgen_140426",
+      "gasto": 98.05,
+      "leads": 9,
+      "estado": "Activo",
+      "impresiones": 33409,
+      "clics": 269,
+      "_id": "1777992128051.6663"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243786100310000",
+      "nombre": "MA_Derecho Procesal Penal_Pixel_140426",
+      "gasto": 117.2,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 49237,
+      "clics": 641,
+      "_id": "1777992128051.3552"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243787278800000",
+      "nombre": "MA_Ciencias de Enfermeria_Leadgen_140426",
+      "gasto": 112.84,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 49027,
+      "clics": 255,
+      "_id": "1777992128051.8174"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243787759540000",
+      "nombre": "MA_Ciencias de Enfermeria_Pixel_140426",
+      "gasto": 17.23,
+      "leads": 0,
+      "estado": "Activo",
+      "impresiones": 6243,
+      "clics": 34,
+      "_id": "1777992128051.1736"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243788863110000",
+      "nombre": "MA_Gestion Publica y Gobernabilidad_Leadgen_140426",
+      "gasto": 40.79,
+      "leads": 14,
+      "estado": "Activo",
+      "impresiones": 23575,
+      "clics": 82,
+      "_id": "1777992128051.8003"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243789390180000",
+      "nombre": "MA_Gestion Publica y Gobernabilidad_Pixel_140426",
+      "gasto": 21.87,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 6635,
+      "clics": 29,
+      "_id": "1777992128051.733"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243838644180000",
+      "nombre": "MA_Gestion  en Salud_Leadgen_140426",
+      "gasto": 62.43,
+      "leads": 9,
+      "estado": "Activo",
+      "impresiones": 25163,
+      "clics": 206,
+      "_id": "1777992128051.4336"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243839996250000",
+      "nombre": "MA_Gestion  en Salud_Pixel_140426",
+      "gasto": 19.95,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 3612,
+      "clics": 15,
+      "_id": "1777992128051.8457"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243842586330000",
+      "nombre": "MA_Salud Publica_Leadgen_140426",
+      "gasto": 52.84,
+      "leads": 7,
+      "estado": "Activo",
+      "impresiones": 20208,
+      "clics": 62,
+      "_id": "1777992128051.701"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120243843458960000",
+      "nombre": "MA_Salud Publica_Pixel_140426",
+      "gasto": 28.53,
+      "leads": 6,
+      "estado": "Activo",
+      "impresiones": 15647,
+      "clics": 69,
+      "_id": "1777992128051.206"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244142846350000",
+      "nombre": "DO_Educacion_Leadgen_160426",
+      "gasto": 23.75,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 5357,
+      "clics": 19,
+      "_id": "1777992128051.6592"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244150864220000",
+      "nombre": "DO_Educacion_Pixel_230426",
+      "gasto": 17.67,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 4151,
+      "clics": 24,
+      "_id": "1777992128051.3408"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244436864550000",
+      "nombre": "MA_Derecho Corporativo Empresarial_Ledgen_200426",
+      "gasto": 87.43,
+      "leads": 5,
+      "estado": "Activo",
+      "impresiones": 41730,
+      "clics": 153,
+      "_id": "1777992128051.9106"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244440759340000",
+      "nombre": "MA_Gestion de Contrataciones Publicas _Ledgen_200426",
+      "gasto": 117.04,
+      "leads": 8,
+      "estado": "Activo",
+      "impresiones": 39637,
+      "clics": 134,
+      "_id": "1777992128051.7131"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244678516100000",
+      "nombre": "MA_Gestion de Contrataciones Publicas _Pixel_230426",
+      "gasto": 47.98,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 7038,
+      "clics": 87,
+      "_id": "1777992128051.7896"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120244678636270000",
+      "nombre": "MA_Derecho Corporativo Empresarial_Pixel_200426",
+      "gasto": 27.89,
+      "leads": 0,
+      "estado": "Activo",
+      "impresiones": 8901,
+      "clics": 83,
+      "_id": "1777992128051.0476"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245186110660000",
+      "nombre": "MA_Gestion Educativa con enfoque en Innovacion y Calidad_Leads",
+      "gasto": 61.29,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 17157,
+      "clics": 199,
+      "_id": "1777992128051.9587"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245187390380000",
+      "nombre": "MA_Gestion Educativa con enfoque en Innovacion y Calidad_Pixel_290426",
+      "gasto": 48.99,
+      "leads": 3,
+      "estado": "Activo",
+      "impresiones": 5748,
+      "clics": 141,
+      "_id": "1777992128051.6104"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245268153380000",
+      "nombre": "MA_Ciencia Criminalistica _Ledgen_300426",
+      "gasto": 86.63,
+      "leads": 8,
+      "estado": "Activo",
+      "impresiones": 63442,
+      "clics": 281,
+      "_id": "1777992128051.1052"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245270180710000",
+      "nombre": "MA_Ciencia Criminalistica _Pixel_300426",
+      "gasto": 20.45,
+      "leads": 2,
+      "estado": "Activo",
+      "impresiones": 7216,
+      "clics": 61,
+      "_id": "1777992128051.4287"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245470078470000",
+      "nombre": "Webinas_MA Gestion de Contrataciones Publicas _Ledgen_040526",
+      "gasto": 4.68,
+      "leads": 4,
+      "estado": "Activo",
+      "impresiones": 2358,
+      "clics": 23,
+      "_id": "1777992128051.6565"
+    },
+    {
+      "fecha": "2026-05-04",
+      "idCampania": "120245470618220000",
+      "nombre": "Webinar_DO Educacion_Leadgen_040526",
+      "gasto": 5.99,
+      "leads": 1,
+      "estado": "Activo",
+      "impresiones": 2052,
+      "clics": 6,
+      "_id": "1777992128051.1738"
     }
   ],
   "data_demograficos": [],
@@ -89308,6 +90141,16 @@
       "planningKey": "SE | Terapia Manual Ortopédica | Intake 2 | Meta | Leadgen",
       "idCampania": "120243493905510000",
       "nombre": "SE_Terapia Manual Ortopédica_Leadgen_290426"
+    },
+    {
+      "planningKey": "Webinar | Doctorado en Educación | Intake 2 | Meta | Leadgen",
+      "idCampania": "120245470618220000",
+      "nombre": "Webinar_DO Educacion_Leadgen_040526"
+    },
+    {
+      "planningKey": "Webinar | Gestión de Contrataciones Públicas | Intake 3 | Meta | Leadgen",
+      "idCampania": "120245470078470000",
+      "nombre": "Webinas_MA Gestion de Contrataciones Publicas _Ledgen_040526"
     }
   ]
 }
