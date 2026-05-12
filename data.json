@@ -8383,6 +8383,78 @@
           "teamId": "team_maestrias"
         },
         {
+          "id": 1778602964503.8936,
+          "teamId": "team_maestrias",
+          "tipo": "Charla",
+          "programa": "MBA Salud",
+          "intake": "Intake 2",
+          "fechaInicio": "2026-05-11",
+          "fechaFin": "2026-05-15",
+          "tracking": "Leadgen",
+          "plataforma": "Meta",
+          "centroCosto": "",
+          "centroCostoId": "",
+          "presupuesto": 40,
+          "leads": 20,
+          "metas": {
+            "leads": "",
+            "interesados": "",
+            "postulantes": "",
+            "matriculados": "",
+            "cplMeta": ""
+          },
+          "distribucionMensual": {
+            "ene": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "feb": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "mar": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "abr": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "may": {
+              "presupuesto": 40,
+              "leads": 20
+            },
+            "jun": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "jul": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "ago": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "sep": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "oct": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "nov": {
+              "presupuesto": 0,
+              "leads": 0
+            },
+            "dic": {
+              "presupuesto": 0,
+              "leads": 0
+            }
+          }
+        },
+        {
           "id": 1777992366296.827,
           "tipo": "Webinar",
           "programa": "Doctorado en Educación",
@@ -10626,7 +10698,7 @@
           "teamId": "team_maestrias"
         }
       ],
-      "recordIdSeq": 1778602498479
+      "recordIdSeq": 1778602964505
     },
     "cc_data": {
       "centros": [
@@ -10719,6 +10791,7 @@
         "Marketing Analitico",
         "MBA Administracion de Negocios",
         "MBA En Salud",
+        "MBA Salud",
         "Microbiología",
         "Monitoreo Fetal",
         "Nutrición Clínica con mención en Nutrición Renal",
@@ -10807,6 +10880,10 @@
       {
         "tipo": "Charla",
         "nombre": "Salud Sexual y Reproductiva del Escolar y Adolescente"
+      },
+      {
+        "tipo": "Charla",
+        "nombre": "MBA Salud"
       }
     ],
     "bitacora_data": [],
@@ -103839,6 +103916,14 @@
         "fechaRelacion": "2026-05-12",
         "estado": "activo",
         "coincidencia": 80
+      },
+      {
+        "planningKey": "Charla | MBA Salud | Intake 2 | Meta | Leadgen",
+        "idCampania": "120240732302720000",
+        "nombre": "Charla_MBA Salud_Leads_2026",
+        "fechaRelacion": "2026-05-12",
+        "estado": "activo",
+        "coincidencia": 50
       }
     ],
     "medidas": [
@@ -212901,6 +212986,22 @@
       },
       {
         "teamId": "team_maestrias",
+        "tipo": "Charla",
+        "programa": "MBA Salud",
+        "intake": "Intake 2",
+        "plataforma": "Meta",
+        "tracking": "Leadgen",
+        "planningKey": "Charla | MBA Salud | Intake 2 | Meta | Leadgen",
+        "nombre": "Charla_MBA Salud_Leads_2026",
+        "idCampania": "120240732302720000",
+        "fecha": "2026-05-11",
+        "gasto": 2.08,
+        "leads": 0,
+        "clics": 5,
+        "impresiones": 897
+      },
+      {
+        "teamId": "team_maestrias",
         "tipo": "Webinar",
         "programa": "Doctorado en Educación",
         "intake": "Intake 2",
@@ -224310,6 +224411,18 @@
     ],
     "campatrack_users_db": [],
     "auditoria": [
+      {
+        "id": "da262bc2-f1ab-4490-aa33-ccfe1fc8e791",
+        "fecha": "2026-05-12T16:22:44.504Z",
+        "usuario": "admin",
+        "teamId": "team_maestrias",
+        "modulo": "planning",
+        "accion": "crear",
+        "campo": "registro",
+        "valorAnterior": null,
+        "valorNuevo": "{\"id\":1778602964503.8936,\"planningKey\":\"Charla | MBA Salud | Intake 2 | Meta | Leadgen\"}",
+        "descripcion": "Nueva fila planning Charla | MBA Salud | Intake 2 | Meta | Leadgen"
+      },
       {
         "id": "69851584-7d99-45ff-9fc4-325b779560af",
         "fecha": "2026-05-12T16:14:58.478Z",
