@@ -5612,6 +5612,78 @@
         "teamId": "team_maestrias"
       },
       {
+        "id": 1779287214260.8787,
+        "teamId": "team_maestrias",
+        "tipo": "SE",
+        "programa": "Neuropsicología",
+        "intake": "Intake 3",
+        "fechaInicio": "2026-05-19",
+        "fechaFin": "2026-08-31",
+        "tracking": "Leadgen",
+        "plataforma": "Meta",
+        "centroCosto": "",
+        "centroCostoId": "",
+        "presupuesto": 1575,
+        "leads": 315,
+        "metas": {
+          "leads": "",
+          "interesados": "",
+          "postulantes": "",
+          "matriculados": "",
+          "cplMeta": ""
+        },
+        "distribucionMensual": {
+          "ene": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "feb": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "mar": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "abr": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "may": {
+            "presupuesto": 195,
+            "leads": 39
+          },
+          "jun": {
+            "presupuesto": 450,
+            "leads": 90
+          },
+          "jul": {
+            "presupuesto": 465,
+            "leads": 93
+          },
+          "ago": {
+            "presupuesto": 465,
+            "leads": 93
+          },
+          "sep": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "oct": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "nov": {
+            "presupuesto": 0,
+            "leads": 0
+          },
+          "dic": {
+            "presupuesto": 0,
+            "leads": 0
+          }
+        }
+      },
+      {
         "id": 1776374792071.3162,
         "tipo": "PE",
         "programa": "Peritaje Criminalistico",
@@ -10913,7 +10985,7 @@
         "teamId": "team_maestrias"
       }
     ],
-    "recordIdSeq": 1778684489801
+    "recordIdSeq": 1779287214262
   },
   "cc_data": {
     "centros": [
@@ -11009,6 +11081,7 @@
       "MBA Salud",
       "Microbiología",
       "Monitoreo Fetal",
+      "Neuropsicología",
       "Nutrición Clínica con mención en Nutrición Renal",
       "Nutrición en Obesidad y Cirugía Bariátrica",
       "Nutrición Oncológica",
@@ -11092,6 +11165,10 @@
     {
       "tipo": "Alcance",
       "nombre": "Alcance"
+    },
+    {
+      "tipo": "SE",
+      "nombre": "Neuropsicología"
     }
   ],
   "bitacora_data": [
@@ -11940,6 +12017,11 @@
     {
       "idCampania": "120242782571140000",
       "nombre": "SE_Monitoreo Fetal_Pixel_intake2_170426",
+      "teamId": "team_maestrias"
+    },
+    {
+      "idCampania": "120244688445300000",
+      "nombre": "SE_Neuropsicologia_Leadgen_190526",
       "teamId": "team_maestrias"
     },
     {
@@ -13434,6 +13516,14 @@
       "fechaRelacion": "2026-05-13",
       "estado": "activo",
       "coincidencia": 50
+    },
+    {
+      "planningKey": "SE | Neuropsicología | Intake 3 | Meta | Leadgen",
+      "idCampania": "120244688445300000",
+      "nombre": "SE_Neuropsicologia_Leadgen_190526",
+      "fechaRelacion": "2026-05-20",
+      "estado": "activo",
+      "coincidencia": 80
     }
   ],
   "relaciones_crm": [],
@@ -15826,6 +15916,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "MA",
+      "programa": "Dirección de Operaciones y Logística Global",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Dirección de Operaciones y Logística Global | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Dirección de Operaciones y Logística Global_Leadgen_3030426",
+      "idCampania": "120243553864060000",
+      "fecha": "2026-05-19",
+      "gasto": 150.51,
+      "leads": 10,
+      "clics": 483,
+      "impresiones": 57150
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
       "programa": "Gestión de Contrataciones Públicas",
       "intake": "Intake 3",
       "plataforma": "Meta",
@@ -16286,6 +16392,22 @@
       "leads": 10,
       "clics": 100,
       "impresiones": 32610
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión de Contrataciones Públicas",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión de Contrataciones Públicas | Intake 3 | Meta | Leadgen",
+      "nombre": "MA_Gestion de Contrataciones Publicas _leadgen_200426",
+      "idCampania": "120244440759340000",
+      "fecha": "2026-05-19",
+      "gasto": 116.34,
+      "leads": 6,
+      "clics": 74,
+      "impresiones": 30372
     },
     {
       "teamId": "team_maestrias",
@@ -18494,6 +18616,22 @@
       "leads": 5,
       "clics": 477,
       "impresiones": 70344
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión del talento humano y liderazgo organizacional",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión del talento humano y liderazgo organizacional | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Gestion del talento humano y liderazgo organizacional_Leadgen_290426",
+      "idCampania": "120243499473020000",
+      "fecha": "2026-05-19",
+      "gasto": 173.97,
+      "leads": 15,
+      "clics": 467,
+      "impresiones": 67962
     },
     {
       "teamId": "team_maestrias",
@@ -22126,6 +22264,22 @@
       "leads": 4,
       "clics": 202,
       "impresiones": 50967
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Derecho Corporativo Empresarial",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Derecho Corporativo Empresarial | Intake 3 | Meta | Leadgen",
+      "nombre": "MA_Derecho Corporativo Empresarial_leadgen_200426",
+      "idCampania": "120244436864550000",
+      "fecha": "2026-05-19",
+      "gasto": 99.06,
+      "leads": 11,
+      "clics": 141,
+      "impresiones": 36490
     },
     {
       "teamId": "team_maestrias",
@@ -25921,6 +26075,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión de la salud ocupacional y prevención del riesgo laboral",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión de la salud ocupacional y prevención del riesgo laboral | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Gestion de la Salud Ocupacional y Prevencion del Riesgo Laboral_Leadgen_300426",
+      "idCampania": "120243552850670000",
+      "fecha": "2026-05-19",
+      "gasto": 57.75,
+      "leads": 16,
+      "clics": 104,
+      "impresiones": 20472
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "DO",
       "programa": "Doctorado en Educación",
       "intake": "Intake 3",
@@ -26446,6 +26616,22 @@
       "leads": 5,
       "clics": 27,
       "impresiones": 5641
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "DO",
+      "programa": "Doctorado en Educación",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "DO | Doctorado en Educación | Intake 3 | Meta | Leadgen",
+      "nombre": "DO_Educacion_Leadgen_160426",
+      "idCampania": "120244142846350000",
+      "fecha": "2026-05-19",
+      "gasto": 30.6,
+      "leads": 8,
+      "clics": 25,
+      "impresiones": 4169
     },
     {
       "teamId": "team_maestrias",
@@ -29777,6 +29963,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MBA",
+      "programa": "Salud",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MBA | Salud | Intake 2 | Meta | Leadgen",
+      "nombre": "MBA_Salud_Leadgen_030526",
+      "idCampania": "120243691276410000",
+      "fecha": "2026-05-19",
+      "gasto": 48.26,
+      "leads": 10,
+      "clics": 67,
+      "impresiones": 12416
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "MA",
       "programa": "Ciencias de Enfermería",
       "intake": "Intake 2",
@@ -30334,6 +30536,22 @@
       "leads": 14,
       "clics": 222,
       "impresiones": 44189
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Ciencias de Enfermería",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Ciencias de Enfermería | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Ciencias de Enfermeria_Leadgen_140426",
+      "idCampania": "120243787278800000",
+      "fecha": "2026-05-19",
+      "gasto": 130.84,
+      "leads": 8,
+      "clics": 289,
+      "impresiones": 52726
     },
     {
       "teamId": "team_maestrias",
@@ -33986,6 +34204,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "MA",
+      "programa": "Psicología Educativa y Neuroeducación",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Psicología Educativa y Neuroeducación | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Psicologia Educativa y Neuroeducacion_Leadgen_290426",
+      "idCampania": "120243498806820000",
+      "fecha": "2026-05-19",
+      "gasto": 54.36,
+      "leads": 15,
+      "clics": 63,
+      "impresiones": 12800
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
       "programa": "Gestión Educativa con Enfoque en Innovación y Calidad",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -36222,6 +36456,22 @@
       "leads": 3,
       "clics": 35,
       "impresiones": 6618
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión Educativa con Enfoque en Innovación y Calidad",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión Educativa con Enfoque en Innovación y Calidad | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Gestion Educativa con enfoque en Innovacion y Calidad_Leadgen_290426",
+      "idCampania": "120245186110660000",
+      "fecha": "2026-05-19",
+      "gasto": 27.96,
+      "leads": 6,
+      "clics": 37,
+      "impresiones": 4968
     },
     {
       "teamId": "team_maestrias",
@@ -38577,6 +38827,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Ciencia Criminalística",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Ciencia Criminalística | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Ciencia Criminalistica _leadgen_300426",
+      "idCampania": "120245268153380000",
+      "fecha": "2026-05-19",
+      "gasto": 82.17,
+      "leads": 16,
+      "clics": 354,
+      "impresiones": 27539
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Enfermeria 1",
       "intake": "Intake 2",
@@ -40881,6 +41147,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión en Salud",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión en Salud | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Gestion  en Salud_Leadgen_140426",
+      "idCampania": "120243838644180000",
+      "fecha": "2026-05-19",
+      "gasto": 100.75,
+      "leads": 12,
+      "clics": 235,
+      "impresiones": 41370
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Microbiología",
       "intake": "Intake 1",
@@ -42910,6 +43192,22 @@
       "leads": 15,
       "clics": 230,
       "impresiones": 34070
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Derecho Procesal Penal",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Derecho Procesal Penal | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Derecho Procesal Penal_Leadgen_140426",
+      "idCampania": "120243782092760000",
+      "fecha": "2026-05-19",
+      "gasto": 83.74,
+      "leads": 14,
+      "clics": 277,
+      "impresiones": 31927
     },
     {
       "teamId": "team_maestrias",
@@ -46450,6 +46748,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "MA",
+      "programa": "Gestión Educativa con Enfoque en Innovación y Calidad",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Gestión Educativa con Enfoque en Innovación y Calidad | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Gestion Educativa con enfoque en Innovacion y Calidad_Pixel_290426",
+      "idCampania": "120245187390380000",
+      "fecha": "2026-05-19",
+      "gasto": 61.88,
+      "leads": 7,
+      "clics": 297,
+      "impresiones": 2458
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
       "programa": "Gestión del talento humano y liderazgo organizacional",
       "intake": "Intake 2",
       "plataforma": "Google",
@@ -48705,6 +49019,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Derecho Procesal Penal",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Derecho Procesal Penal | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Derecho Procesal Penal_Pixel_140426",
+      "idCampania": "120243786100310000",
+      "fecha": "2026-05-19",
+      "gasto": 83.11,
+      "leads": 3,
+      "clics": 1482,
+      "impresiones": 43071
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Productos Sanitarios, Material Biomédico y Dispositivos Médicos",
       "intake": "Intake 3",
@@ -49058,6 +49388,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Productos Sanitarios, Material Biomédico y Dispositivos Médicos",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Productos Sanitarios, Material Biomédico y Dispositivos Médicos | Intake 3 | Meta | Leadgen",
+      "nombre": "SE_Productos Sanitarios_Leadgen_Abril_270426",
+      "idCampania": "120243348606540000",
+      "fecha": "2026-05-19",
+      "gasto": 40.35,
+      "leads": 1,
+      "clics": 59,
+      "impresiones": 12098
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Nutrición en Obesidad y Cirugía Bariátrica",
       "intake": "Intake 3",
       "plataforma": "Meta",
@@ -49406,6 +49752,22 @@
       "leads": 2,
       "clics": 50,
       "impresiones": 13627
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Nutrición en Obesidad y Cirugía Bariátrica",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Nutrición en Obesidad y Cirugía Bariátrica | Intake 3 | Meta | Leadgen",
+      "nombre": "SE_Nutricion en Obesidad y Cirugia Bariatrica_Leadgen_Abril_270426",
+      "idCampania": "120243357618760000",
+      "fecha": "2026-05-19",
+      "gasto": 41.27,
+      "leads": 1,
+      "clics": 50,
+      "impresiones": 10959
     },
     {
       "teamId": "team_maestrias",
@@ -55441,6 +55803,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "DO",
+      "programa": "Doctorado en Educación",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "DO | Doctorado en Educación | Intake 3 | Meta | Pixel",
+      "nombre": "DO_Educacion_Pixel_230426",
+      "idCampania": "120244150864220000",
+      "fecha": "2026-05-19",
+      "gasto": 17.33,
+      "leads": 1,
+      "clics": 29,
+      "impresiones": 3633
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Laboratorio Forense",
       "intake": "Intake 3",
@@ -55790,6 +56168,22 @@
       "leads": 0,
       "clics": 69,
       "impresiones": 15796
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Laboratorio Forense",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Laboratorio Forense | Intake 3 | Meta | Leadgen",
+      "nombre": "SE_Laboratorio Forense_Leadgen_Abril_270426",
+      "idCampania": "120243346011150000",
+      "fecha": "2026-05-19",
+      "gasto": 38.27,
+      "leads": 1,
+      "clics": 50,
+      "impresiones": 14126
     },
     {
       "teamId": "team_maestrias",
@@ -56174,6 +56568,22 @@
       "leads": 2,
       "clics": 195,
       "impresiones": 3242
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión de Contrataciones Públicas",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Gestión de Contrataciones Públicas | Intake 3 | Meta | Pixel",
+      "nombre": "MA_Gestion de Contrataciones Publicas _Pixel_230426",
+      "idCampania": "120244678516100000",
+      "fecha": "2026-05-19",
+      "gasto": 46.28,
+      "leads": 4,
+      "clics": 196,
+      "impresiones": 1854
     },
     {
       "teamId": "team_maestrias",
@@ -60993,6 +61403,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "DI",
+      "programa": "Auditoria en Salud con enfoque en Audioria Farmaceutica",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "DI | Auditoria en Salud con enfoque en Audioria Farmaceutica | Intake 2 | Meta | Leadgen",
+      "nombre": "DI_Auditoria en Salud con enfoque en Audioria Farmaceutica_Leadgen_030526",
+      "idCampania": "120243690635620000",
+      "fecha": "2026-05-19",
+      "gasto": 27.73,
+      "leads": 5,
+      "clics": 46,
+      "impresiones": 8703
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Psicoterapia",
       "intake": "Intake 1",
@@ -64353,6 +64779,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Psicología Educativa y Neuroeducación",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Psicología Educativa y Neuroeducación | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Psicologia Educativa y Neuroeducacion_Pixel_290426",
+      "idCampania": "120243498656360000",
+      "fecha": "2026-05-19",
+      "gasto": 35.99,
+      "leads": 4,
+      "clics": 57,
+      "impresiones": 9220
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Salud Sexual y Reproductiva del Escolar y Adolescente",
       "intake": "Intake 2",
@@ -65601,6 +66043,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Salud Sexual y Reproductiva del Escolar y Adolescente",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Salud Sexual y Reproductiva del Escolar y Adolescente | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Salud Sexual y Reproductiva del Escolar y Adolescente_Leadgen_110526",
+      "idCampania": "120244157743620000",
+      "fecha": "2026-05-19",
+      "gasto": 244.19,
+      "leads": 9,
+      "clics": 474,
+      "impresiones": 78201
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "MA",
       "programa": "Salud Pública",
       "intake": "Intake 2",
@@ -66158,6 +66616,22 @@
       "leads": 10,
       "clics": 76,
       "impresiones": 19053
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Salud Pública",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Salud Pública | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Salud Publica_Leadgen_140426",
+      "idCampania": "120243842586330000",
+      "fecha": "2026-05-19",
+      "gasto": 62.25,
+      "leads": 7,
+      "clics": 93,
+      "impresiones": 19806
     },
     {
       "teamId": "team_maestrias",
@@ -66846,6 +67320,22 @@
       "leads": 16,
       "clics": 127,
       "impresiones": 14928
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Docencia Universitaria",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Docencia Universitaria | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Docencia Universitaria_Leadgen_300426",
+      "idCampania": "120243553484330000",
+      "fecha": "2026-05-19",
+      "gasto": 41.76,
+      "leads": 20,
+      "clics": 116,
+      "impresiones": 14867
     },
     {
       "teamId": "team_maestrias",
@@ -67998,6 +68488,22 @@
       "leads": 2,
       "clics": 100,
       "impresiones": 14309
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Riesgo Obstétrico",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Riesgo Obstétrico | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Riesgo Obstétrico_Leadgen_290426",
+      "idCampania": "120243494610560000",
+      "fecha": "2026-05-19",
+      "gasto": 16.77,
+      "leads": 0,
+      "clics": 49,
+      "impresiones": 9015
     },
     {
       "teamId": "team_maestrias",
@@ -69710,6 +70216,22 @@
       "leads": 0,
       "clics": 196,
       "impresiones": 2586
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Productos Sanitarios, Material Biomédico y Dispositivos Médicos",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Productos Sanitarios, Material Biomédico y Dispositivos Médicos | Intake 3 | Meta | Pixel",
+      "nombre": "SE_Productos Sanitarios_Pixel_Abril_270426",
+      "idCampania": "120243350084490000",
+      "fecha": "2026-05-19",
+      "gasto": 31.85,
+      "leads": 5,
+      "clics": 213,
+      "impresiones": 2390
     },
     {
       "teamId": "team_maestrias",
@@ -75330,6 +75852,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Monitoreo Fetal",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Monitoreo Fetal | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Monitoreo Fetal_Leadgen_290426",
+      "idCampania": "120243494981630000",
+      "fecha": "2026-05-19",
+      "gasto": 36.28,
+      "leads": 5,
+      "clics": 101,
+      "impresiones": 21925
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Laboratorio Forense",
       "intake": "Intake 3",
       "plataforma": "Meta",
@@ -75646,6 +76184,22 @@
       "leads": 2,
       "clics": 141,
       "impresiones": 4319
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Laboratorio Forense",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Laboratorio Forense | Intake 3 | Meta | Pixel",
+      "nombre": "SE_Laboratorio Forense_Pixel_Abril_270426",
+      "idCampania": "120243347994900000",
+      "fecha": "2026-05-19",
+      "gasto": 25.46,
+      "leads": 3,
+      "clics": 128,
+      "impresiones": 4508
     },
     {
       "teamId": "team_maestrias",
@@ -76030,6 +76584,22 @@
       "leads": 3,
       "clics": 104,
       "impresiones": 996
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Derecho Corporativo Empresarial",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Derecho Corporativo Empresarial | Intake 3 | Meta | Pixel",
+      "nombre": "MA_Derecho Corporativo Empresarial_Pixel_200426",
+      "idCampania": "120244678636270000",
+      "fecha": "2026-05-19",
+      "gasto": 24.97,
+      "leads": 2,
+      "clics": 87,
+      "impresiones": 739
     },
     {
       "teamId": "team_maestrias",
@@ -81266,6 +81836,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Nutrición Oncológica",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Nutrición Oncológica | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Nutricion Oncologica_Leadgen_290426",
+      "idCampania": "120243495431980000",
+      "fecha": "2026-05-19",
+      "gasto": 43.95,
+      "leads": 2,
+      "clics": 68,
+      "impresiones": 12741
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Nutrición Pediatrica",
       "intake": "Intake 1",
       "plataforma": "Meta",
@@ -82769,6 +83355,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión Pública y Gobernabilidad",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "MA | Gestión Pública y Gobernabilidad | Intake 2 | Meta | Leadgen",
+      "nombre": "MA_Gestion Publica y Gobernabilidad_Leadgen_140426",
+      "idCampania": "120243788863110000",
+      "fecha": "2026-05-19",
+      "gasto": 42.89,
+      "leads": 10,
+      "clics": 78,
+      "impresiones": 20541
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Psicoprofilaxis Obstétrica y Estimulación Pre Natal",
       "intake": "Intake 2",
@@ -83985,6 +84587,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Psicoprofilaxis Obstétrica y Estimulación Pre Natal",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Psicoprofilaxis Obstétrica y Estimulación Pre Natal | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Psicoprofilaxis Obstétrica y Estimulación Pre Natal_Leadgen_290426",
+      "idCampania": "120243494773900000",
+      "fecha": "2026-05-19",
+      "gasto": 23.21,
+      "leads": 0,
+      "clics": 54,
+      "impresiones": 10630
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "PE",
       "programa": "Peritaje Ambiental",
       "intake": "Intake 2",
@@ -85169,6 +85787,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "PE",
+      "programa": "Peritaje Ambiental",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "PE | Peritaje Ambiental | Intake 2 | Meta | Leadgen",
+      "nombre": "PE_Peritaje Ambiental_Leadgen_030526",
+      "idCampania": "120243690559810000",
+      "fecha": "2026-05-19",
+      "gasto": 9.69,
+      "leads": 2,
+      "clics": 13,
+      "impresiones": 3342
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Nutrición en Obesidad y Cirugía Bariátrica",
       "intake": "Intake 3",
@@ -85486,6 +86120,22 @@
       "leads": 2,
       "clics": 115,
       "impresiones": 1773
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Nutrición en Obesidad y Cirugía Bariátrica",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Nutrición en Obesidad y Cirugía Bariátrica | Intake 3 | Meta | Pixel",
+      "nombre": "SE_Nutricion en Obesidad y Cirugia Bariatrica_Pixel_Abril_270426",
+      "idCampania": "120243358287400000",
+      "fecha": "2026-05-19",
+      "gasto": 19.55,
+      "leads": 0,
+      "clics": 80,
+      "impresiones": 1515
     },
     {
       "teamId": "team_maestrias",
@@ -88337,6 +88987,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Salud Pública",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Salud Pública | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Salud Publica_Pixel_140426",
+      "idCampania": "120243843458960000",
+      "fecha": "2026-05-19",
+      "gasto": 35.2,
+      "leads": 1,
+      "clics": 39,
+      "impresiones": 13654
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Psicología Clínica",
       "intake": "Intake 1",
@@ -90386,6 +91052,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Soporte Nutricional Farmacológico",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Soporte Nutricional Farmacológico | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Soporte Nutricional Farmacológico_Leadgen_290426",
+      "idCampania": "120243493025000000",
+      "fecha": "2026-05-19",
+      "gasto": 99.34,
+      "leads": 23,
+      "clics": 197,
+      "impresiones": 31031
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Psicoterapia",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -91150,6 +91832,22 @@
       "leads": 16,
       "clics": 54,
       "impresiones": 8283
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Psicoterapia",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Psicoterapia | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Psicoterapia_Leadgen_290426",
+      "idCampania": "120243495652740000",
+      "fecha": "2026-05-19",
+      "gasto": 10.01,
+      "leads": 3,
+      "clics": 24,
+      "impresiones": 4004
     },
     {
       "teamId": "team_maestrias",
@@ -93313,6 +94011,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Psicoterapia",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Psicoterapia | Intake 2 | Meta | Pixel",
+      "nombre": "SE_Psicoterapia_Pixel_01042026",
+      "idCampania": "120241828527400000",
+      "fecha": "2026-05-19",
+      "gasto": 10.66,
+      "leads": 3,
+      "clics": 20,
+      "impresiones": 1452
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "PE",
       "programa": "Peritaje Criminalistico",
       "intake": "Intake 2",
@@ -94497,6 +95211,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "PE",
+      "programa": "Peritaje Criminalistico",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "PE | Peritaje Criminalistico | Intake 2 | Meta | Leadgen",
+      "nombre": "PE_Peritaje Criminalistico_Leadgen_040526",
+      "idCampania": "120243690496730000",
+      "fecha": "2026-05-19",
+      "gasto": 17.3,
+      "leads": 12,
+      "clics": 50,
+      "impresiones": 8575
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Nutrición Pediatrica",
       "intake": "Intake 3",
@@ -94670,6 +95400,22 @@
       "leads": 2,
       "clics": 40,
       "impresiones": 6889
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Nutrición Pediatrica",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Nutrición Pediatrica | Intake 3 | Meta | Leadgen",
+      "nombre": "SE_Nutricion Pediatrica_080526",
+      "idCampania": "120243969484980000",
+      "fecha": "2026-05-19",
+      "gasto": 19.18,
+      "leads": 2,
+      "clics": 45,
+      "impresiones": 6101
     },
     {
       "teamId": "team_maestrias",
@@ -97073,6 +97819,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "DI",
+      "programa": "investigación Cientifica",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "DI | investigación Cientifica | Intake 2 | Meta | Leadgen",
+      "nombre": "DI_investigacion Cientifica_Leadgen_030526",
+      "idCampania": "120243690615070000",
+      "fecha": "2026-05-19",
+      "gasto": 9.81,
+      "leads": 8,
+      "clics": 17,
+      "impresiones": 2010
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "MBA",
       "programa": "Administracion de Negocios",
       "intake": "Intake 3",
@@ -98641,6 +99403,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Prevención de Cáncer Ginecológico",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Prevención de Cáncer Ginecológico | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Prevención de Cáncer Ginecológico_Leadgen_290426",
+      "idCampania": "120243494871060000",
+      "fecha": "2026-05-19",
+      "gasto": 95.66,
+      "leads": 7,
+      "clics": 151,
+      "impresiones": 35873
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "PE",
       "programa": "Peritaje Grafotécnico",
       "intake": "Intake 2",
@@ -99822,6 +100600,22 @@
       "leads": 5,
       "clics": 22,
       "impresiones": 6329
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "PE",
+      "programa": "Peritaje Grafotécnico",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "PE | Peritaje Grafotécnico | Intake 2 | Meta | Leadgen",
+      "nombre": "PE_Peritaje Grafotecnico_Leadgen_030526",
+      "idCampania": "120243690451310000",
+      "fecha": "2026-05-19",
+      "gasto": 13.92,
+      "leads": 5,
+      "clics": 19,
+      "impresiones": 5947
     },
     {
       "teamId": "team_maestrias",
@@ -101134,6 +101928,22 @@
       "leads": 1,
       "clics": 11,
       "impresiones": 2985
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Neuropsicología",
+      "intake": "Intake 3",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Neuropsicología | Intake 3 | Meta | Leadgen",
+      "nombre": "SE_Neuropsicologia_Leadgen_190526",
+      "idCampania": "120244688445300000",
+      "fecha": "2026-05-19",
+      "gasto": 25.25,
+      "leads": 75,
+      "clics": 136,
+      "impresiones": 7352
     },
     {
       "teamId": "team_maestrias",
@@ -103454,6 +104264,22 @@
       "leads": 3,
       "clics": 83,
       "impresiones": 6998
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión Pública y Gobernabilidad",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Gestión Pública y Gobernabilidad | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Gestion Publica y Gobernabilidad_Pixel_140426",
+      "idCampania": "120243789390180000",
+      "fecha": "2026-05-19",
+      "gasto": 27.18,
+      "leads": 3,
+      "clics": 45,
+      "impresiones": 5754
     },
     {
       "teamId": "team_maestrias",
@@ -106414,6 +107240,22 @@
       "leads": 1,
       "clics": 72,
       "impresiones": 867
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Gestión en Salud",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Gestión en Salud | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Gestion  en Salud_Pixel_140426",
+      "idCampania": "120243839996250000",
+      "fecha": "2026-05-19",
+      "gasto": 25.17,
+      "leads": 3,
+      "clics": 93,
+      "impresiones": 771
     },
     {
       "teamId": "team_maestrias",
@@ -109666,6 +110508,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "MA",
+      "programa": "Docencia Universitaria",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Docencia Universitaria | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Docencia Universitaria_Pixel_intake1_11032026",
+      "idCampania": "120240819831280000",
+      "fecha": "2026-05-19",
+      "gasto": 17.43,
+      "leads": 2,
+      "clics": 32,
+      "impresiones": 3539
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
       "programa": "Generics_Search_Tráfico",
       "intake": "Intake 1",
       "plataforma": "Google",
@@ -112910,6 +113768,22 @@
       "leads": 2,
       "clics": 49,
       "impresiones": 18173
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Ciencias de Enfermería",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Ciencias de Enfermería | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Ciencias de Enfermeria_Pixel_140426",
+      "idCampania": "120243787759540000",
+      "fecha": "2026-05-19",
+      "gasto": 50.76,
+      "leads": 0,
+      "clics": 40,
+      "impresiones": 15648
     },
     {
       "teamId": "team_maestrias",
@@ -117617,6 +118491,22 @@
     },
     {
       "teamId": "team_maestrias",
+      "tipo": "MA",
+      "programa": "Ciencia Criminalística",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "MA | Ciencia Criminalística | Intake 2 | Meta | Pixel",
+      "nombre": "MA_Ciencia Criminalistica _Pixel_300426",
+      "idCampania": "120245270180710000",
+      "fecha": "2026-05-19",
+      "gasto": 23.47,
+      "leads": 3,
+      "clics": 54,
+      "impresiones": 7906
+    },
+    {
+      "teamId": "team_maestrias",
       "tipo": "SE",
       "programa": "Prevención de Cáncer Ginecológico",
       "intake": "Intake 2",
@@ -119054,6 +119944,22 @@
       "leads": 3,
       "clics": 103,
       "impresiones": 1037
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Fisioterapia en el Adulto Mayor",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Fisioterapia en el Adulto Mayor | Intake 2 | Meta | Pixel",
+      "nombre": "SE_Fisioterapia en el Adulto Mayor_Pixel_04042026",
+      "idCampania": "120242058279870000",
+      "fecha": "2026-05-19",
+      "gasto": 20.52,
+      "leads": 0,
+      "clics": 109,
+      "impresiones": 1009
     },
     {
       "teamId": "team_maestrias",
@@ -128498,6 +129404,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "Charla",
+      "programa": "Ciencias de Enfermería",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "Charla | Ciencias de Enfermería | Intake 2 | Meta | Leadgen",
+      "nombre": "Webinar_MA Ciencias de Enfermería_18Mar",
+      "idCampania": "120241038868280000",
+      "fecha": "2026-05-19",
+      "gasto": 10.16,
+      "leads": 1,
+      "clics": 33,
+      "impresiones": 6806
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "Charla",
       "programa": "Derecho Procesal Penal",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -128610,6 +129532,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "Charla",
+      "programa": "Derecho Procesal Penal",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "Charla | Derecho Procesal Penal | Intake 2 | Meta | Leadgen",
+      "nombre": "Charla_MA_Derecho Procesal Penal_Leadgen_120526",
+      "idCampania": "120246073095550000",
+      "fecha": "2026-05-19",
+      "gasto": 11.33,
+      "leads": 5,
+      "clics": 30,
+      "impresiones": 4359
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "Charla",
       "programa": "Ciencia Criminalística",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -128718,6 +129656,22 @@
       "leads": 3,
       "clics": 13,
       "impresiones": 4330
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "Charla",
+      "programa": "Ciencia Criminalística",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "Charla | Ciencia Criminalística | Intake 2 | Meta | Leadgen",
+      "nombre": "Charla_MA_Ciencia Criminalistica _leadgen_120526",
+      "idCampania": "120246069122020000",
+      "fecha": "2026-05-19",
+      "gasto": 10.38,
+      "leads": 2,
+      "clics": 19,
+      "impresiones": 4438
     },
     {
       "teamId": "team_maestrias",
@@ -129070,6 +130024,22 @@
       "leads": 4,
       "clics": 15,
       "impresiones": 3398
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "Charla",
+      "programa": "Gestión de la salud ocupacional y prevención del riesgo laboral",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "Charla | Gestión de la salud ocupacional y prevención del riesgo laboral | Intake 2 | Meta | Leadgen",
+      "nombre": "Charla_MA Gestion de la Salud Ocupacional y Prevencion del Riesgo Laboral",
+      "idCampania": "120242286181960000",
+      "fecha": "2026-05-19",
+      "gasto": 3.15,
+      "leads": 0,
+      "clics": 1,
+      "impresiones": 1125
     },
     {
       "teamId": "team_maestrias",
@@ -133074,6 +134044,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Fisioterapia Cardiorrespiratoria",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Fisioterapia Cardiorrespiratoria | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Fisioterapia Cardiorrespiratoria_Leadgen_280426",
+      "idCampania": "120243436511530000",
+      "fecha": "2026-05-19",
+      "gasto": 58.93,
+      "leads": 3,
+      "clics": 267,
+      "impresiones": 54095
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Terapia Manual Ortopédica",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -134290,6 +135276,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Terapia Manual Ortopédica",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Terapia Manual Ortopédica | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Terapia Manual Ortopédica_Leadgen_290426",
+      "idCampania": "120243493905510000",
+      "fecha": "2026-05-19",
+      "gasto": 37.23,
+      "leads": 3,
+      "clics": 92,
+      "impresiones": 16565
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Histotecnología",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -135054,6 +136056,22 @@
       "leads": 4,
       "clics": 97,
       "impresiones": 18625
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Histotecnología",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Histotecnología | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Histotecnologia_Leadgen_Abril_01042026",
+      "idCampania": "120241885926820000",
+      "fecha": "2026-05-19",
+      "gasto": 28.91,
+      "leads": 2,
+      "clics": 66,
+      "impresiones": 13155
     },
     {
       "teamId": "team_maestrias",
@@ -135870,6 +136888,22 @@
       "leads": 2,
       "clics": 164,
       "impresiones": 29705
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Fisioterapia en el Adulto Mayor",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Fisioterapia en el Adulto Mayor | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Fisioterapia en el Adulto Mayor_Leadgen_280426",
+      "idCampania": "120243437163820000",
+      "fecha": "2026-05-19",
+      "gasto": 34.14,
+      "leads": 5,
+      "clics": 127,
+      "impresiones": 22983
     },
     {
       "teamId": "team_maestrias",
@@ -137794,6 +138828,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Hemoterapia y Banco de Sangre",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Hemoterapia y Banco de Sangre | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Hemoterapia y Banco de Sangre_Leadgen_290426",
+      "idCampania": "120243495853680000",
+      "fecha": "2026-05-19",
+      "gasto": 29.6,
+      "leads": 6,
+      "clics": 50,
+      "impresiones": 10370
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Fisioterapia en Neurorrehabilitación",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -138594,6 +139644,22 @@
     {
       "teamId": "team_maestrias",
       "tipo": "SE",
+      "programa": "Fisioterapia en Neurorrehabilitación",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Fisioterapia en Neurorrehabilitación | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Fisioterapia en Neurorrehabilitación_Leadgen_290426",
+      "idCampania": "120243493813920000",
+      "fecha": "2026-05-19",
+      "gasto": 34.65,
+      "leads": 3,
+      "clics": 100,
+      "impresiones": 20411
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
       "programa": "Fisioterapia Cardiorrespiratoria",
       "intake": "Intake 2",
       "plataforma": "Meta",
@@ -139278,6 +140344,22 @@
       "leads": 4,
       "clics": 297,
       "impresiones": 2395
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Fisioterapia Cardiorrespiratoria",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Pixel",
+      "planningKey": "SE | Fisioterapia Cardiorrespiratoria | Intake 2 | Meta | Pixel",
+      "nombre": "SE_Fisioterapia Cardiorrespiratoria_Pixel_04042026",
+      "idCampania": "120242057802560000",
+      "fecha": "2026-05-19",
+      "gasto": 35.01,
+      "leads": 1,
+      "clics": 197,
+      "impresiones": 1811
     },
     {
       "teamId": "team_maestrias",
@@ -141246,10 +142328,50 @@
       "leads": 1,
       "clics": 27,
       "impresiones": 5024
+    },
+    {
+      "teamId": "team_maestrias",
+      "tipo": "SE",
+      "programa": "Hematología",
+      "intake": "Intake 2",
+      "plataforma": "Meta",
+      "tracking": "Leadgen",
+      "planningKey": "SE | Hematología | Intake 2 | Meta | Leadgen",
+      "nombre": "SE_Hematología_Leadgen_290426",
+      "idCampania": "120243495092910000",
+      "fecha": "2026-05-19",
+      "gasto": 11.04,
+      "leads": 1,
+      "clics": 13,
+      "impresiones": 4412
     }
   ],
   "campatrack_users_db": [],
   "auditoria": [
+    {
+      "id": "45786053-b1dc-4381-9c4d-d35bdbebe7fe",
+      "fecha": "2026-05-20T14:26:54.260Z",
+      "usuario": "admin",
+      "teamId": "team_maestrias",
+      "modulo": "planning",
+      "accion": "crear",
+      "campo": "registro",
+      "valorAnterior": null,
+      "valorNuevo": "{\"id\":1779287214260.8787,\"planningKey\":\"SE | Neuropsicología | Intake 3 | Meta | Leadgen\"}",
+      "descripcion": "Nueva fila planning SE | Neuropsicología | Intake 3 | Meta | Leadgen"
+    },
+    {
+      "id": "bbcf9621-848e-456d-8c5a-e690c0823a61",
+      "fecha": "2026-05-20T14:23:26.562Z",
+      "usuario": "admin",
+      "teamId": "team_maestrias",
+      "modulo": "data",
+      "accion": "crear",
+      "campo": "carga_general",
+      "valorAnterior": null,
+      "valorNuevo": "{\"insertadas\":63,\"actualizadas\":0,\"ignoradas\":0}",
+      "descripcion": "DATA general: 63 insertadas, 0 actualizadas"
+    },
     {
       "id": "04dc9d83-285d-48ea-b5d6-73599052f649",
       "fecha": "2026-05-19T16:05:56.058Z",
