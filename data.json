@@ -11165,10 +11165,6 @@
     {
       "tipo": "Alcance",
       "nombre": "Alcance"
-    },
-    {
-      "tipo": "SE",
-      "nombre": "Neuropsicología"
     }
   ],
   "bitacora_data": [
@@ -13526,7 +13522,22 @@
       "coincidencia": 80
     }
   ],
-  "relaciones_crm": [],
+  "relaciones_crm": [
+    {
+      "planningKey": "DI | investigación Cientifica | Intake 2 | Meta | Leadgen",
+      "crmKey": "diplomado en investigacion y produccion cientifica con inteligencia artificial intake 2 leadgen",
+      "nombre": "Diplomado en  Investigación y Producción Científica con Inteligencia Artificial | Intake 2 | Leadgen",
+      "fechaRelacion": "2026-05-23",
+      "estado": "activa"
+    },
+    {
+      "planningKey": "DI | investigación Cientifica | Intake 2 | Meta | Pixel",
+      "crmKey": "diplomado en investigacion y produccion cientifica con inteligencia artificial intake 2 pixel",
+      "nombre": "Diplomado en  Investigación y Producción Científica con Inteligencia Artificial | Intake 2 | Pixel",
+      "fechaRelacion": "2026-05-23",
+      "estado": "activa"
+    }
+  ],
   "medidas": [
     {
       "id": "auto_01_cpl",
@@ -146041,6 +146052,13 @@
       "2026/04",
       "2026/05"
     ],
-    "crm": []
+    "crm": [
+      "2025/12",
+      "2026/01",
+      "2026/02",
+      "2026/03",
+      "2026/04",
+      "2026/05"
+    ]
   }
 }
